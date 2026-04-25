@@ -26,3 +26,21 @@ The Smart Email Writer is an AI-powered productivity tool designed to translate 
 
 https://github.com/user-attachments/assets/58fbfe59-9355-4bbc-929d-cc50bd910f40
 
+# 🤖 AI Engineering Portfolio: Smart Solutions
+
+Welcome to my collection of AI-powered applications. This repository contains two distinct projects demonstrating different aspects of LLM orchestration and RAG.
+
+---
+
+## 🏗️ 1. Spotify Architecture Assistant (PDF RAG)
+**Status:** Production Ready ✅
+A high-performance **Retrieval-Augmented Generation (RAG)** application. It allows users to upload technical PDFs, stores them in a local **FAISS** vector database, and provides strict, zero-hallucination answers.
+
+* **Key Tech:** Streamlit, LangChain, FAISS, GPT-4o-mini.
+* **Feature:** Persistent disk storage and "Show Your Work" source transparency.
+
+---
+
+https://github.com/user-attachments/assets/a207b979-c883-4e8b-a35d-7f884117df39
+
+
