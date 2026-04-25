@@ -1,0 +1,11 @@
+# Ignore all secret environment variables
+.env
+*/.env
+
+# Ignore all virtual environments (they are too heavy for GitHub)
+venv/
+*/venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
