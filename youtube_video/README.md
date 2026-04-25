@@ -19,6 +19,13 @@ The YouTube Video Summarizer is an AI productivity tool that helps users digest 
 1. Clone this repository.
 2. Navigate to the folder: `cd youtube_video`
 3. Activate the virtual environment: `.\venv\Scripts\activate` (Windows)
-4. Install dependencies: `pip install -r requirements.txt`
-5. Add your OpenAI API key to a `.env` file (`OPENAI_API_KEY=your_key_here`).
-6. Launch the app: `python -m streamlit run app.py`
+5. Install dependencies: `pip install -r requirements.txt`
+
+https://github.com/user-attachments/assets/f068abe4-6c40-44c0-b137-4d6ea25d2c43
+
+
+6. Add your OpenAI API key to a `.env` file (`OPENAI_API_KEY=your_key_here`).
+7. Launch the app: `python -m streamlit run app.py`
+
+   
+
