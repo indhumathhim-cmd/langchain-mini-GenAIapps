@@ -21,3 +21,8 @@ The Smart Email Writer is an AI-powered productivity tool designed to translate 
 4. Install dependencies: `pip install -r requirements.txt`
 5. Add your OpenAI API key to a `.env` file (`OPENAI_API_KEY=your_key_here`).
 6. Launch the app: `python -m streamlit run app.py`
+
+   
+
+https://github.com/user-attachments/assets/58fbfe59-9355-4bbc-929d-cc50bd910f40
+
